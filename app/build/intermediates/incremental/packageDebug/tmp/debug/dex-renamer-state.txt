@@ -1,0 +1,4 @@
+#Fri Dec 18 20:32:51 CAT 2020
+base.0=A\:\\Alainyern\\Developer\\Job\\Capstone-Project-Regine-Lecturer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
